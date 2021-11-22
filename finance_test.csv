@@ -1,4 +1,4 @@
-Date;AAPL.Open;AAPL.High;AAPL.Low;AAPL.Close;AAPL.Volume;direction
+﻿Date;AAPL.Open;AAPL.High;AAPL.Low;AAPL.Close;AAPL.Volume;direction
 01.01.1900;100;100;100;100;100;Increasing
 01.01.1900;90;90;90;90;90;Decreasing
 02.01.1900;90;90;90;90;90;Increasing
