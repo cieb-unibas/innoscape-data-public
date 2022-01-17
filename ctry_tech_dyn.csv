@@ -92,14 +92,6 @@
 "Australia","Information & Communication Technology",2013,76.1165876777251,0.119634858536032
 "Australia","Information & Communication Technology",2014,80.4884233737596,0.121070546619502
 "Australia","Information & Communication Technology",2015,85.2722298221614,0.124077060171433
-"Australia","Computer Technology",1985,33.7272727272727,0.00257189618891747
-"Australia","Computer Technology",1986,37.5454545454545,0.00228737783322936
-"Australia","Computer Technology",1987,40.3846153846154,0.00242627846211273
-"Australia","Computer Technology",1988,48.6666666666667,0.00253464008110848
-"Australia","Computer Technology",1989,49.0588235294118,0.00267127592708988
-"Australia","Computer Technology",1990,47.9166666666667,0.0035799522673031
-"Australia","Computer Technology",1991,51.0384615384615,0.00371428571428571
-"Australia","Computer Technology",1992,59.1224489795918,0.00645501251482018
 "Australia","Computer Technology",1993,59.4459459459459,0.00898603521554341
 "Australia","Computer Technology",1994,57.530612244898,0.0106348345089528
 "Australia","Computer Technology",1995,62.1269841269841,0.0118187787261983
@@ -123,19 +115,6 @@
 "Australia","Computer Technology",2013,96.4716981132076,0.150252310483642
 "Australia","Computer Technology",2014,100.025605214153,0.143362477474471
 "Australia","Computer Technology",2015,104.263457884737,0.134006619706357
-"Australia","Semiconductors",1985,20.7916666666667,0.00561140986672902
-"Australia","Semiconductors",1986,20.9545454545455,0.00457475566645872
-"Australia","Semiconductors",1987,19.5454545454545,0.00410600970511385
-"Australia","Semiconductors",1988,20.6,0.00337952010814464
-"Australia","Semiconductors",1989,17.2666666666667,0.00235700817096166
-"Australia","Semiconductors",1990,18.875,0.0035799522673031
-"Australia","Semiconductors",1992,22.7241379310345,0.00382031352917929
-"Australia","Semiconductors",1993,23.2857142857143,0.00340012143290832
-"Australia","Semiconductors",1994,24.52,0.00271296798697775
-"Australia","Semiconductors",1995,25.6363636363636,0.00309539442829003
-"Australia","Semiconductors",1996,27.4545454545455,0.00274040857000498
-"Australia","Semiconductors",1997,26.0882352941176,0.00259839510890332
-"Australia","Semiconductors",1998,28.1621621621622,0.00250219787651315
 "Australia","Semiconductors",1999,28.962962962963,0.0033714178685147
 "Australia","Semiconductors",2000,30.1071428571429,0.00475974614687217
 "Australia","Semiconductors",2001,29.184,0.00661165767481223
@@ -494,17 +473,6 @@
 "Austria","Information & Communication Technology",2013,43.8227848101266,0.105614973262032
 "Austria","Information & Communication Technology",2014,46.8835443037975,0.110520425293788
 "Austria","Information & Communication Technology",2015,49.2160120845921,0.118979151689432
-"Austria","Semiconductors",1985,18.0833333333333,0.00346720600982375
-"Austria","Semiconductors",1986,18.0555555555556,0.00466321243523316
-"Austria","Semiconductors",1987,16.8888888888889,0.00422039859320047
-"Austria","Semiconductors",1988,18,0.0049218917183822
-"Austria","Semiconductors",1989,18.1304347826087,0.00449833757089771
-"Austria","Semiconductors",1990,18.3478260869565,0.00425374514518217
-"Austria","Semiconductors",1992,21.4210526315789,0.00344078232524448
-"Austria","Semiconductors",1993,22.7142857142857,0.00372472507981554
-"Austria","Semiconductors",1994,23.45,0.00332225913621262
-"Austria","Semiconductors",1995,24.5714285714286,0.00313620071684588
-"Austria","Semiconductors",1996,27.2558139534884,0.00579046593051441
 "Austria","Semiconductors",1997,26.1090909090909,0.00677339901477833
 "Austria","Semiconductors",1998,27.6818181818182,0.00992443893086726
 "Austria","Semiconductors",1999,29.448,0.0133962061944057
@@ -772,15 +740,6 @@
 "Austria","Consumer Goods & Civil Engineering",2013,9.77650429799427,0.0424161400097229
 "Austria","Consumer Goods & Civil Engineering",2014,10.1196013289037,0.0421096810296586
 "Austria","Consumer Goods & Civil Engineering",2015,10.7729257641921,0.041157440690151
-"Austria","Computer Technology",1986,NA,NA
-"Austria","Computer Technology",1987,NA,NA
-"Austria","Computer Technology",1988,NA,NA
-"Austria","Computer Technology",1991,33.8333333333333,0.0033532041728763
-"Austria","Computer Technology",1992,35,0.00271640709887722
-"Austria","Computer Technology",1993,42.4,0.00266051791415396
-"Austria","Computer Technology",1994,56.375,0.0026578073089701
-"Austria","Computer Technology",1995,58,0.0029868578255675
-"Austria","Computer Technology",1996,60.5588235294118,0.00457850794505791
 "Austria","Computer Technology",1997,70.0769230769231,0.00640394088669951
 "Austria","Computer Technology",1998,75,0.00710499605277997
 "Austria","Computer Technology",1999,73.9222222222222,0.00964526845997214
@@ -925,11 +884,6 @@
 "Canada","Computer Technology",2014,115.48281829419,0.169861633107271
 "Canada","Computer Technology",2015,115.072499636046,0.175350368876522
 "Canada","Semiconductors",1985,19.7142857142857,0.00487974904147787
-"Canada","Semiconductors",1986,20.4042553191489,0.00384520985028225
-"Canada","Semiconductors",1987,19.7906976744186,0.00315457413249211
-"Canada","Semiconductors",1988,20.1086956521739,0.00294645144760441
-"Canada","Semiconductors",1989,20.5227272727273,0.00252047889098929
-"Canada","Semiconductors",1990,21,0.00229441518485686
 "Canada","Semiconductors",1991,23.5970149253731,0.00317776512995637
 "Canada","Semiconductors",1992,24.6666666666667,0.00383074281185329
 "Canada","Semiconductors",1993,26.6161616161616,0.00405804230201672
@@ -1203,11 +1157,6 @@
 "Canada","Consumer Goods & Civil Engineering",2013,10.3477157360406,0.0451412094941664
 "Canada","Consumer Goods & Civil Engineering",2014,10.7537735849057,0.044512566401411
 "Canada","Consumer Goods & Civil Engineering",2015,11.3547193090685,0.0413805427207515
-"China","Instruments",1985,NA,NA
-"China","Instruments",1986,NA,NA
-"China","Instruments",1987,NA,NA
-"China","Instruments",1988,NA,NA
-"China","Instruments",1989,NA,NA
 "China","Instruments",1990,NA,0.103305785123967
 "China","Instruments",1991,NA,0.104448742746615
 "China","Instruments",1992,NA,0.0966101694915254
@@ -1234,8 +1183,6 @@
 "China","Instruments",2013,39.9357798165138,0.0603109611021967
 "China","Instruments",2014,41.0375816993464,0.060392750238479
 "China","Instruments",2015,40.9038737446198,0.061602368642008
-"China","Chemistry & Materials",1985,NA,NA
-"China","Chemistry & Materials",1986,NA,NA
 "China","Chemistry & Materials",1987,NA,NA
 "China","Chemistry & Materials",1988,NA,NA
 "China","Chemistry & Materials",1989,NA,NA
@@ -1265,14 +1212,6 @@
 "China","Chemistry & Materials",2013,13.7043214556482,0.0729817960493554
 "China","Chemistry & Materials",2014,13.9505893019039,0.072563402519654
 "China","Chemistry & Materials",2015,14.4047919293821,0.070087056432012
-"China","Semiconductors",1987,NA,NA
-"China","Semiconductors",1990,NA,NA
-"China","Semiconductors",1991,NA,0.0541586073500967
-"China","Semiconductors",1992,NA,0.0322033898305085
-"China","Semiconductors",1995,29.2380952380952,0.0223642172523962
-"China","Semiconductors",1997,31.4642857142857,0.021021021021021
-"China","Semiconductors",1998,31.030303030303,0.0206508135168961
-"China","Semiconductors",1999,33.8333333333333,0.0145067698259188
 "China","Semiconductors",2000,32.0967741935484,0.0230141054194506
 "China","Semiconductors",2001,30.960396039604,0.0273120605732829
 "China","Semiconductors",2002,30.9230769230769,0.0398121682319314
@@ -1289,20 +1228,6 @@
 "China","Semiconductors",2013,37.5067144136079,0.0618049023405079
 "China","Semiconductors",2014,37.0628465804067,0.0711818690174665
 "China","Semiconductors",2015,36.6408529741863,0.0787485085509744
-"China","Engines, Turbines, Thermal & Environmental Technologies",1985,NA,NA
-"China","Engines, Turbines, Thermal & Environmental Technologies",1986,NA,NA
-"China","Engines, Turbines, Thermal & Environmental Technologies",1987,NA,NA
-"China","Engines, Turbines, Thermal & Environmental Technologies",1988,NA,NA
-"China","Engines, Turbines, Thermal & Environmental Technologies",1989,NA,NA
-"China","Engines, Turbines, Thermal & Environmental Technologies",1990,NA,0.0537190082644628
-"China","Engines, Turbines, Thermal & Environmental Technologies",1991,NA,0.0483558994197292
-"China","Engines, Turbines, Thermal & Environmental Technologies",1992,NA,0.0457627118644068
-"China","Engines, Turbines, Thermal & Environmental Technologies",1993,NA,0.0507982583454282
-"China","Engines, Turbines, Thermal & Environmental Technologies",1994,NA,0.047680412371134
-"China","Engines, Turbines, Thermal & Environmental Technologies",1995,10.8888888888889,0.0383386581469649
-"China","Engines, Turbines, Thermal & Environmental Technologies",1996,11.0975609756098,0.0378578024007387
-"China","Engines, Turbines, Thermal & Environmental Technologies",1997,11.55,0.03003003003003
-"China","Engines, Turbines, Thermal & Environmental Technologies",1998,12.0238095238095,0.0262828535669587
 "China","Engines, Turbines, Thermal & Environmental Technologies",1999,11.4150943396226,0.0256286266924565
 "China","Engines, Turbines, Thermal & Environmental Technologies",2000,10.9852941176471,0.0252412769116555
 "China","Engines, Turbines, Thermal & Environmental Technologies",2001,12.6185567010309,0.0262303948080043
@@ -1320,10 +1245,6 @@
 "China","Engines, Turbines, Thermal & Environmental Technologies",2013,15.1692546583851,0.0178166325457865
 "China","Engines, Turbines, Thermal & Environmental Technologies",2014,14.7382075471698,0.0139469096411302
 "China","Engines, Turbines, Thermal & Environmental Technologies",2015,12.9918699186992,0.0108710062309426
-"China","Pharmaceuticals & Biotechnology",1985,NA,NA
-"China","Pharmaceuticals & Biotechnology",1986,NA,NA
-"China","Pharmaceuticals & Biotechnology",1987,NA,NA
-"China","Pharmaceuticals & Biotechnology",1988,NA,NA
 "China","Pharmaceuticals & Biotechnology",1989,NA,NA
 "China","Pharmaceuticals & Biotechnology",1990,NA,0.171487603305785
 "China","Pharmaceuticals & Biotechnology",1991,NA,0.176015473887814
@@ -1351,18 +1272,6 @@
 "China","Pharmaceuticals & Biotechnology",2013,8.50849295265631,0.0765506556742101
 "China","Pharmaceuticals & Biotechnology",2014,8.50975609756098,0.0809183908424065
 "China","Pharmaceuticals & Biotechnology",2015,8.64788029925187,0.0886031198904061
-"China","Medical Technology",1985,NA,NA
-"China","Medical Technology",1986,NA,NA
-"China","Medical Technology",1987,NA,NA
-"China","Medical Technology",1988,NA,NA
-"China","Medical Technology",1989,NA,NA
-"China","Medical Technology",1990,NA,0.0268595041322314
-"China","Medical Technology",1991,NA,0.0367504835589942
-"China","Medical Technology",1992,NA,0.0322033898305085
-"China","Medical Technology",1993,NA,0.0377358490566038
-"China","Medical Technology",1994,NA,0.0373711340206186
-"China","Medical Technology",1995,20.7435897435897,0.0415335463258786
-"China","Medical Technology",1996,20.0487804878049,0.0378578024007387
 "China","Medical Technology",1997,19.9649122807018,0.0427927927927928
 "China","Medical Technology",1998,19.7272727272727,0.0344180225281602
 "China","Medical Technology",1999,18.7462686567164,0.0323984526112186
@@ -1382,10 +1291,6 @@
 "China","Medical Technology",2013,22.3916913946588,0.00932329995020196
 "China","Medical Technology",2014,23.625,0.00921022334791619
 "China","Medical Technology",2015,22.8418604651163,0.00950108268151487
-"China","Machines & Mechanical Engineering",1985,NA,NA
-"China","Machines & Mechanical Engineering",1986,NA,NA
-"China","Machines & Mechanical Engineering",1987,NA,NA
-"China","Machines & Mechanical Engineering",1988,NA,NA
 "China","Machines & Mechanical Engineering",1989,NA,NA
 "China","Machines & Mechanical Engineering",1990,NA,0.132231404958678
 "China","Machines & Mechanical Engineering",1991,NA,0.123791102514507
@@ -1413,11 +1318,6 @@
 "China","Machines & Mechanical Engineering",2013,11.9683203825463,0.0462845128091628
 "China","Machines & Mechanical Engineering",2014,11.7055084745763,0.0465774152166047
 "China","Machines & Mechanical Engineering",2015,11.9971181556196,0.0460029166114278
-"China","Electrical Machinery",1985,NA,NA
-"China","Electrical Machinery",1986,NA,NA
-"China","Electrical Machinery",1987,NA,NA
-"China","Electrical Machinery",1988,NA,NA
-"China","Electrical Machinery",1989,NA,NA
 "China","Electrical Machinery",1990,NA,0.117768595041322
 "China","Electrical Machinery",1991,NA,0.108317214700193
 "China","Electrical Machinery",1992,NA,0.128813559322034
@@ -1444,14 +1344,6 @@
 "China","Electrical Machinery",2013,18.2629722921914,0.109832346594367
 "China","Electrical Machinery",2014,18.3444550365427,0.103516331699615
 "China","Electrical Machinery",2015,18.5358422939068,0.0986344955587962
-"China","Computer Technology",1987,NA,NA
-"China","Computer Technology",1990,NA,NA
-"China","Computer Technology",1991,NA,NA
-"China","Computer Technology",1993,NA,0.0304789550072569
-"China","Computer Technology",1994,NA,0.0335051546391753
-"China","Computer Technology",1995,49.0714285714286,0.0298189563365282
-"China","Computer Technology",1996,52.5666666666667,0.0277008310249307
-"China","Computer Technology",1997,73.1041666666667,0.036036036036036
 "China","Computer Technology",1998,84.5161290322581,0.0387984981226533
 "China","Computer Technology",1999,94.9424460431655,0.0672147001934236
 "China","Computer Technology",2000,95.4915254237288,0.0876020786933927
@@ -1470,19 +1362,6 @@
 "China","Computer Technology",2013,112.535301668806,0.129308913849389
 "China","Computer Technology",2014,110.296521959888,0.129568106312292
 "China","Computer Technology",2015,108.572594355661,0.129965972866675
-"China","Consumer Goods & Civil Engineering",1985,NA,NA
-"China","Consumer Goods & Civil Engineering",1986,NA,NA
-"China","Consumer Goods & Civil Engineering",1987,NA,NA
-"China","Consumer Goods & Civil Engineering",1988,NA,NA
-"China","Consumer Goods & Civil Engineering",1989,NA,NA
-"China","Consumer Goods & Civil Engineering",1990,NA,0.0723140495867769
-"China","Consumer Goods & Civil Engineering",1991,NA,0.0696324951644101
-"China","Consumer Goods & Civil Engineering",1992,NA,0.0474576271186441
-"China","Consumer Goods & Civil Engineering",1993,NA,0.0391872278664731
-"China","Consumer Goods & Civil Engineering",1994,NA,0.0322164948453608
-"China","Consumer Goods & Civil Engineering",1995,7.64,0.0266240681576145
-"China","Consumer Goods & Civil Engineering",1996,7.25806451612903,0.0286241920590951
-"China","Consumer Goods & Civil Engineering",1997,7.4390243902439,0.0307807807807808
 "China","Consumer Goods & Civil Engineering",1998,8.03333333333333,0.0375469336670839
 "China","Consumer Goods & Civil Engineering",1999,8.02380952380952,0.0406189555125725
 "China","Consumer Goods & Civil Engineering",2000,8.06349206349206,0.0467706013363029
@@ -1501,17 +1380,6 @@
 "China","Consumer Goods & Civil Engineering",2013,10.1376811594203,0.0267249488186798
 "China","Consumer Goods & Civil Engineering",2014,10.216957605985,0.0263807111608171
 "China","Consumer Goods & Civil Engineering",2015,10.0697674418605,0.0247028149719387
-"China","Electrical & Audiovisual Technologies",1985,NA,NA
-"China","Electrical & Audiovisual Technologies",1986,NA,NA
-"China","Electrical & Audiovisual Technologies",1987,NA,NA
-"China","Electrical & Audiovisual Technologies",1988,NA,NA
-"China","Electrical & Audiovisual Technologies",1989,NA,NA
-"China","Electrical & Audiovisual Technologies",1990,NA,0.0516528925619835
-"China","Electrical & Audiovisual Technologies",1991,NA,0.0522243713733075
-"China","Electrical & Audiovisual Technologies",1992,NA,0.0542372881355932
-"China","Electrical & Audiovisual Technologies",1993,NA,0.0435413642960813
-"China","Electrical & Audiovisual Technologies",1994,NA,0.047680412371134
-"China","Electrical & Audiovisual Technologies",1995,19.1458333333333,0.0511182108626198
 "China","Electrical & Audiovisual Technologies",1996,23.6031746031746,0.0581717451523546
 "China","Electrical & Audiovisual Technologies",1997,25.7866666666667,0.0563063063063063
 "China","Electrical & Audiovisual Technologies",1998,27.0967741935484,0.05819774718398
@@ -1532,16 +1400,6 @@
 "China","Electrical & Audiovisual Technologies",2013,43.4986342943854,0.0911580811154761
 "China","Electrical & Audiovisual Technologies",2014,43.6957321559971,0.089404953784415
 "China","Electrical & Audiovisual Technologies",2015,43.4079878665318,0.0874099606699368
-"China","Information & Communication Technology",1985,NA,NA
-"China","Information & Communication Technology",1986,NA,NA
-"China","Information & Communication Technology",1988,NA,NA
-"China","Information & Communication Technology",1989,NA,NA
-"China","Information & Communication Technology",1990,NA,0.0309917355371901
-"China","Information & Communication Technology",1991,NA,0.034816247582205
-"China","Information & Communication Technology",1993,NA,0.034833091436865
-"China","Information & Communication Technology",1994,NA,0.0309278350515464
-"China","Information & Communication Technology",1995,31.6666666666667,0.0223642172523962
-"China","Information & Communication Technology",1996,38.2727272727273,0.0304709141274238
 "China","Information & Communication Technology",1997,39.9180327868852,0.0457957957957958
 "China","Information & Communication Technology",1998,52.7978723404255,0.0588235294117647
 "China","Information & Communication Technology",1999,55.956204379562,0.066247582205029
@@ -1561,21 +1419,6 @@
 "China","Information & Communication Technology",2013,91.1816879893069,0.289769269075416
 "China","Information & Communication Technology",2014,88.2478524796701,0.287194500180915
 "China","Information & Communication Technology",2015,86.1426127527216,0.284148658800654
-"China","Transport",1986,NA,NA
-"China","Transport",1988,NA,NA
-"China","Transport",1989,NA,NA
-"China","Transport",1991,NA,NA
-"China","Transport",1992,NA,0.0389830508474576
-"China","Transport",1993,NA,0.0319303338171263
-"China","Transport",1994,NA,0.029639175257732
-"China","Transport",1995,11.5833333333333,0.0255591054313099
-"China","Transport",1996,9.81818181818182,0.0203139427516159
-"China","Transport",1997,10.7037037037037,0.0202702702702703
-"China","Transport",1998,9.53846153846154,0.016270337922403
-"China","Transport",1999,9.56666666666667,0.0145067698259188
-"China","Transport",2000,9.45454545454546,0.0122494432071269
-"China","Transport",2001,9.8421052631579,0.010275824770146
-"China","Transport",2002,8.45454545454546,0.00898325847284606
 "China","Transport",2003,10.0526315789474,0.00875307125307125
 "China","Transport",2004,9.81538461538462,0.00734795387745874
 "China","Transport",2005,11,0.00677530017152659
@@ -1713,8 +1556,6 @@
 "Finland","Instruments",2013,35.7869565217391,0.0617118325731151
 "Finland","Instruments",2014,38.2534059945504,0.057877306418546
 "Finland","Instruments",2015,40.0130434782609,0.0462032944957814
-"Finland","Medical Technology",1985,19.3225806451613,0.0179502026635785
-"Finland","Medical Technology",1986,18.390243902439,0.0212655601659751
 "Finland","Medical Technology",1987,18.3571428571429,0.025629290617849
 "Finland","Medical Technology",1988,18.1232876712329,0.0297473512632437
 "Finland","Medical Technology",1989,17.8815789473684,0.027027027027027
@@ -1895,10 +1736,6 @@
 "Finland","Transport",2009,15.1973684210526,0.0060882800608828
 "Finland","Transport",2010,16.390625,0.00575229192881539
 "Finland","Transport",2011,16.4905660377358,0.00534381931841097
-"Finland","Transport",2012,17.4,0.00509799478871644
-"Finland","Transport",2013,18.5,0.00563455862624094
-"Finland","Transport",2014,17.2727272727273,0.0034694843084687
-"Finland","Transport",2015,19.4705882352941,0.00341502611490558
 "Finland","Consumer Goods & Civil Engineering",1985,8.31386861313869,0.0793283149971048
 "Finland","Consumer Goods & Civil Engineering",1986,8.48407643312102,0.0814315352697095
 "Finland","Consumer Goods & Civil Engineering",1987,8.56603773584906,0.0727688787185355
@@ -1930,16 +1767,6 @@
 "Finland","Consumer Goods & Civil Engineering",2013,21.3548387096774,0.0166353635631875
 "Finland","Consumer Goods & Civil Engineering",2014,28.1166666666667,0.0189244598643747
 "Finland","Consumer Goods & Civil Engineering",2015,36.0760869565217,0.0184813177983126
-"Finland","Semiconductors",1985,NA,NA
-"Finland","Semiconductors",1988,NA,NA
-"Finland","Semiconductors",1990,22.4705882352941,0.00535601764335224
-"Finland","Semiconductors",1991,21.304347826087,0.0065137354856981
-"Finland","Semiconductors",1992,21.2380952380952,0.00547017452461579
-"Finland","Semiconductors",1993,21,0.00514740290126345
-"Finland","Semiconductors",1994,21.7777777777778,0.00539245056920312
-"Finland","Semiconductors",1995,21,0.00375878411505148
-"Finland","Semiconductors",1996,25.2142857142857,0.00383666758015895
-"Finland","Semiconductors",1997,25.3333333333333,0.00445714285714286
 "Finland","Semiconductors",1998,24.8490566037736,0.00527205809211181
 "Finland","Semiconductors",1999,26.5454545454545,0.00480223522221252
 "Finland","Semiconductors",2000,26.0625,0.00500078137208939
@@ -1958,13 +1785,6 @@
 "Finland","Semiconductors",2013,28.95,0.0214649852428226
 "Finland","Semiconductors",2014,28.3142857142857,0.0220785365084372
 "Finland","Semiconductors",2015,27.396694214876,0.0243069505825633
-"Finland","Computer Technology",1985,NA,NA
-"Finland","Computer Technology",1987,NA,NA
-"Finland","Computer Technology",1989,NA,NA
-"Finland","Computer Technology",1991,43.6363636363636,0.00311526479750779
-"Finland","Computer Technology",1992,42.3333333333333,0.0039072675175827
-"Finland","Computer Technology",1993,44.2173913043478,0.00538137576041179
-"Finland","Computer Technology",1994,37.59375,0.00639105252646295
 "Finland","Computer Technology",1995,42.2777777777778,0.00882497140055565
 "Finland","Computer Technology",1996,49.7323943661972,0.0097286927925459
 "Finland","Computer Technology",1997,69.6574074074074,0.0123428571428571
@@ -2885,11 +2705,6 @@
 "Italy","Information & Communication Technology",2013,59.0438695163105,0.108308966861598
 "Italy","Information & Communication Technology",2014,56.5978417266187,0.103816565837628
 "Italy","Information & Communication Technology",2015,57.8430799220273,0.0993704600484261
-"Italy","Computer Technology",1985,43.1904761904762,0.00207612456747405
-"Italy","Computer Technology",1986,44.92,0.00217561569924289
-"Italy","Computer Technology",1987,39.5769230769231,0.00204017576898933
-"Italy","Computer Technology",1988,43,0.00225003515679932
-"Italy","Computer Technology",1989,39.1555555555556,0.00296130560673862
 "Italy","Computer Technology",1990,41.5,0.00340943683409437
 "Italy","Computer Technology",1991,39.9315068493151,0.00424665503199535
 "Italy","Computer Technology",1992,39.8301886792453,0.00583957690612605
@@ -2916,7 +2731,6 @@
 "Italy","Computer Technology",2013,89.2025423728814,0.0718810916179337
 "Italy","Computer Technology",2014,85.1861648016277,0.0734184778549556
 "Italy","Computer Technology",2015,80.6163215590743,0.0795157384987893
-"Italy","Semiconductors",1985,21.4615384615385,0.00385565991102323
 "Italy","Semiconductors",1986,21.0892857142857,0.00487337916630406
 "Italy","Semiconductors",1987,21.8571428571429,0.00549278091650973
 "Italy","Semiconductors",1988,21.6966292134831,0.00625791027984812
@@ -4094,9 +3908,6 @@
 "South Korea","Information & Communication Technology",2013,71.8512768253207,0.215340527701761
 "South Korea","Information & Communication Technology",2014,72.3560436580571,0.22538503850385
 "South Korea","Information & Communication Technology",2015,73.8163146515882,0.242974037781594
-"South Korea","Instruments",1985,19.4583333333333,0.0556844547563805
-"South Korea","Instruments",1986,21.2702702702703,0.0665467625899281
-"South Korea","Instruments",1987,20.4081632653061,0.0659488559892328
 "South Korea","Instruments",1988,19.5070422535211,0.0698131760078663
 "South Korea","Instruments",1989,19.8775510204082,0.0638436482084691
 "South Korea","Instruments",1990,21.9323308270677,0.0632429862101759
@@ -4125,9 +3936,6 @@
 "South Korea","Instruments",2013,49.5778788939447,0.0737594877885062
 "South Korea","Instruments",2014,47.9030237580994,0.0707431854296541
 "South Korea","Instruments",2015,46.9290780141844,0.0683705424790383
-"South Korea","Pharmaceuticals & Biotechnology",1985,7.93548387096774,0.0719257540603248
-"South Korea","Pharmaceuticals & Biotechnology",1986,7.96875,0.0575539568345324
-"South Korea","Pharmaceuticals & Biotechnology",1987,8,0.0471063257065949
 "South Korea","Pharmaceuticals & Biotechnology",1988,8.16417910447761,0.0658800393313668
 "South Korea","Pharmaceuticals & Biotechnology",1989,8.64210526315789,0.0618892508143322
 "South Korea","Pharmaceuticals & Biotechnology",1990,8.85034013605442,0.0699001426533524
@@ -4156,8 +3964,6 @@
 "South Korea","Pharmaceuticals & Biotechnology",2013,9.73224043715847,0.0330717199359736
 "South Korea","Pharmaceuticals & Biotechnology",2014,9.78413461538462,0.0317809558733651
 "South Korea","Pharmaceuticals & Biotechnology",2015,9.98940397350993,0.030508132134559
-"South Korea","Machines & Mechanical Engineering",1985,9.27272727272727,0.102088167053364
-"South Korea","Machines & Mechanical Engineering",1986,9.78260869565217,0.0827338129496403
 "South Korea","Machines & Mechanical Engineering",1987,10.2203389830508,0.0794078061911171
 "South Korea","Machines & Mechanical Engineering",1988,11.4634146341463,0.0806293018682399
 "South Korea","Machines & Mechanical Engineering",1989,11.0909090909091,0.0788273615635179
@@ -4187,8 +3993,6 @@
 "South Korea","Machines & Mechanical Engineering",2013,15.4517045454545,0.0272628698301234
 "South Korea","Machines & Mechanical Engineering",2014,15.6182764603817,0.0264179195697348
 "South Korea","Machines & Mechanical Engineering",2015,15.7187250996016,0.0253560965754117
-"South Korea","Engines, Turbines, Thermal & Environmental Technologies",1985,14.5277777777778,0.0835266821345708
-"South Korea","Engines, Turbines, Thermal & Environmental Technologies",1986,14.0487804878049,0.0737410071942446
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",1987,13.25,0.0699865410497981
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",1988,13.85,0.0589970501474926
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",1989,13.2906976744186,0.0560260586319218
@@ -4218,10 +4022,6 @@
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",2013,20.5097879282219,0.015825889399494
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",2014,21.7943722943723,0.0141180784745141
 "South Korea","Engines, Turbines, Thermal & Environmental Technologies",2015,24.0364842454395,0.0121830487928074
-"South Korea","Transport",1985,7.4,0.0348027842227378
-"South Korea","Transport",1986,7.14285714285714,0.0377697841726619
-"South Korea","Transport",1987,8.83870967741935,0.0417227456258412
-"South Korea","Transport",1988,11.025,0.0393313667649951
 "South Korea","Transport",1989,11.8867924528302,0.0345276872964169
 "South Korea","Transport",1990,11.4430379746835,0.0375653827864955
 "South Korea","Transport",1991,11.7441860465116,0.0273363000635728
@@ -4280,14 +4080,6 @@
 "South Korea","Consumer Goods & Civil Engineering",2013,10.7391975308642,0.0167294883048485
 "South Korea","Consumer Goods & Civil Engineering",2014,11.25,0.0150959540398484
 "South Korea","Consumer Goods & Civil Engineering",2015,11.6819526627219,0.0136579452469946
-"South Korea","Medical Technology",1985,NA,NA
-"South Korea","Medical Technology",1986,NA,NA
-"South Korea","Medical Technology",1987,14.2666666666667,0.0201884253028264
-"South Korea","Medical Technology",1988,14.8461538461538,0.0127826941986234
-"South Korea","Medical Technology",1989,16.375,0.0104234527687296
-"South Korea","Medical Technology",1990,19.2352941176471,0.00808368996671422
-"South Korea","Medical Technology",1991,18.9375,0.0101716465352829
-"South Korea","Medical Technology",1992,17.1904761904762,0.00957810718358039
 "South Korea","Medical Technology",1993,16.4029850746269,0.0116806136680614
 "South Korea","Medical Technology",1994,16.1018518518519,0.0138231153206195
 "South Korea","Medical Technology",1995,17.021897810219,0.0129099133056917
@@ -4311,7 +4103,6 @@
 "South Korea","Medical Technology",2013,24.4285714285714,0.00677699179015852
 "South Korea","Medical Technology",2014,24.2743764172336,0.00673817381738174
 "South Korea","Medical Technology",2015,24.009375,0.00646529952520457
-"South Korea","Chemistry & Materials",1985,10.6052631578947,0.0881670533642691
 "South Korea","Chemistry & Materials",1986,10.4745762711864,0.106115107913669
 "South Korea","Chemistry & Materials",1987,10.975,0.107671601615074
 "South Korea","Chemistry & Materials",1988,11.4414414414414,0.109144542772861
@@ -4342,10 +4133,6 @@
 "South Korea","Chemistry & Materials",2013,16.7697764402408,0.0600506015386999
 "South Korea","Chemistry & Materials",2014,16.9498950682057,0.0582447133602249
 "South Korea","Chemistry & Materials",2015,17.0429559519476,0.0555005556116779
-"South Korea","Semiconductors",1986,NA,NA
-"South Korea","Semiconductors",1987,NA,NA
-"South Korea","Semiconductors",1988,NA,NA
-"South Korea","Semiconductors",1989,NA,NA
 "South Korea","Semiconductors",1990,21.8181818181818,0.0366143604374703
 "South Korea","Semiconductors",1991,25.8838709677419,0.0492689129052765
 "South Korea","Semiconductors",1992,27.7276119402985,0.0611174458380844
@@ -4372,10 +4159,6 @@
 "South Korea","Semiconductors",2013,38.7671812222457,0.183133681003769
 "South Korea","Semiconductors",2014,38.2713800811325,0.184558733651143
 "South Korea","Semiconductors",2015,37.9633553129391,0.186907768461461
-"South Korea","Computer Technology",1987,NA,NA
-"South Korea","Computer Technology",1988,NA,NA
-"South Korea","Computer Technology",1989,NA,NA
-"South Korea","Computer Technology",1990,NA,NA
 "South Korea","Computer Technology",1991,36.6896551724138,0.0460902733630006
 "South Korea","Computer Technology",1992,38.8940092165899,0.0494868871151653
 "South Korea","Computer Technology",1993,41.3393501805054,0.0482914923291492
@@ -4494,9 +4277,6 @@
 "Spain","Information & Communication Technology",2013,84.361014994233,0.15987460815047
 "Spain","Information & Communication Technology",2014,83.7857142857143,0.16837416481069
 "Spain","Information & Communication Technology",2015,81.5284552845528,0.187043795620438
-"Spain","Medical Technology",1985,15.3,0.036319612590799
-"Spain","Medical Technology",1986,15.35,0.0424178154825027
-"Spain","Medical Technology",1987,15.1276595744681,0.0432780847145488
 "Spain","Medical Technology",1988,15.7037037037037,0.0438667749796913
 "Spain","Medical Technology",1989,15.8909090909091,0.0411368735976066
 "Spain","Medical Technology",1990,15.7413793103448,0.039348710990502
@@ -4594,8 +4374,6 @@
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1989,19.1060606060606,0.0493642483171279
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1990,14.921568627451,0.0345997286295794
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1991,12.58,0.029603315571344
-"Spain","Engines, Turbines, Thermal & Environmental Technologies",1992,10.8913043478261,0.023686920700309
-"Spain","Engines, Turbines, Thermal & Environmental Technologies",1993,10.375,0.0220689655172414
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1994,10.2,0.0201938610662359
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1995,11.8333333333333,0.0224948875255624
 "Spain","Engines, Turbines, Thermal & Environmental Technologies",1996,12.75,0.0272350503256365
@@ -4711,12 +4489,6 @@
 "Spain","Consumer Goods & Civil Engineering",2013,12.7525773195876,0.0357735570717315
 "Spain","Consumer Goods & Civil Engineering",2014,11.2818791946309,0.033184855233853
 "Spain","Consumer Goods & Civil Engineering",2015,11.9326923076923,0.0316301703163017
-"Spain","Instruments",1985,21.1666666666667,0.0217917675544794
-"Spain","Instruments",1986,19.4782608695652,0.024390243902439
-"Spain","Instruments",1987,18.0833333333333,0.0220994475138122
-"Spain","Instruments",1988,17.8,0.0284321689683184
-"Spain","Instruments",1989,18.3243243243243,0.0276738967838444
-"Spain","Instruments",1990,17.7173913043478,0.0312075983717775
 "Spain","Instruments",1991,18.4918032786885,0.0361160449970397
 "Spain","Instruments",1992,16.7692307692308,0.0468589083419155
 "Spain","Instruments",1993,17.4150943396226,0.048735632183908
@@ -4742,14 +4514,6 @@
 "Spain","Instruments",2013,23.3138461538462,0.0599299280840863
 "Spain","Instruments",2014,25.7834645669291,0.0565701559020045
 "Spain","Instruments",2015,24.0307692307692,0.0593065693430657
-"Spain","Computer Technology",1989,NA,NA
-"Spain","Computer Technology",1990,NA,NA
-"Spain","Computer Technology",1991,NA,NA
-"Spain","Computer Technology",1992,35.4285714285714,0.0108135942327497
-"Spain","Computer Technology",1993,37.3478260869565,0.0105747126436782
-"Spain","Computer Technology",1994,45.6785714285714,0.0113085621970921
-"Spain","Computer Technology",1995,48.4375,0.010906612133606
-"Spain","Computer Technology",1996,58.7727272727273,0.0130254588513914
 "Spain","Computer Technology",1997,66.5,0.0129265770423992
 "Spain","Computer Technology",1998,70.4615384615385,0.0149700598802395
 "Spain","Computer Technology",1999,93.2427184466019,0.0212546430045398
@@ -4769,23 +4533,8 @@
 "Spain","Computer Technology",2013,108.430799220273,0.0945970864834962
 "Spain","Computer Technology",2014,106.967592592593,0.0962138084632517
 "Spain","Computer Technology",2015,100.352201257862,0.0967153284671533
-"Spain","Semiconductors",1987,NA,NA
-"Spain","Semiconductors",1990,NA,NA
-"Spain","Semiconductors",1991,NA,NA
-"Spain","Semiconductors",1995,NA,NA
-"Spain","Semiconductors",1996,26.4666666666667,0.0044404973357016
-"Spain","Semiconductors",1997,24.9333333333333,0.00387797311271975
-"Spain","Semiconductors",1998,23.9333333333333,0.0034546292031322
-"Spain","Semiconductors",1999,28,0.00268262484523318
-"Spain","Semiconductors",2000,29.3157894736842,0.00357344367124318
-"Spain","Semiconductors",2001,28.1304347826087,0.00387531592249368
-"Spain","Semiconductors",2002,29.1612903225806,0.00481515998757378
-"Spain","Semiconductors",2003,26.4285714285714,0.00601202404809619
-"Spain","Semiconductors",2004,24.9574468085106,0.00644453585630056
-"Spain","Semiconductors",2005,25.4042553191489,0.00617040829722988
 "Spain","Semiconductors",2006,24.1730769230769,0.00680628272251309
 "Spain","Semiconductors",2007,23.0384615384615,0.00687466948704389
-"Spain","Semiconductors",2008,24.6304347826087,0.00609756097560976
 "Spain","Semiconductors",2009,25.4074074074074,0.00719520319786809
 "Spain","Semiconductors",2010,26.8695652173913,0.00931802835921675
 "Spain","Semiconductors",2011,28.0833333333333,0.0103388856978748
@@ -4886,14 +4635,6 @@
 "Sweden","Information & Communication Technology",2013,76.6651648576695,0.299588931836309
 "Sweden","Information & Communication Technology",2014,77.4105613701237,0.30248956684415
 "Sweden","Information & Communication Technology",2015,77.1981132075472,0.308728497315009
-"Sweden","Semiconductors",1985,19.6923076923077,0.00127525995683736
-"Sweden","Semiconductors",1986,20.75,0.00111296605453534
-"Sweden","Semiconductors",1987,24.5384615384615,0.00115504220346513
-"Sweden","Semiconductors",1988,21.8888888888889,0.00156862745098039
-"Sweden","Semiconductors",1989,20.5789473684211,0.00162060730126237
-"Sweden","Semiconductors",1990,20.8888888888889,0.00226111715936689
-"Sweden","Semiconductors",1991,21.1388888888889,0.00299177262528048
-"Sweden","Semiconductors",1992,22.0652173913043,0.00362490149724192
 "Sweden","Semiconductors",1993,24.4615384615385,0.00375586854460094
 "Sweden","Semiconductors",1994,27.375,0.0036036036036036
 "Sweden","Semiconductors",1995,30.6395348837209,0.00481522956326988
@@ -5169,7 +4910,6 @@
 "Sweden","Computer Technology",1986,50.8688524590164,0.00565757744388796
 "Sweden","Computer Technology",1987,49.7543859649123,0.00506441581519325
 "Sweden","Computer Technology",1988,48.859649122807,0.00496732026143791
-"Sweden","Computer Technology",1989,47.5625,0.00409416581371546
 "Sweden","Computer Technology",1990,47.3508771929825,0.00477346955866343
 "Sweden","Computer Technology",1991,47.1730769230769,0.00432144934762736
 "Sweden","Computer Technology",1992,49.1481481481481,0.00425531914893617
