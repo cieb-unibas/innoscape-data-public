@@ -1,25 +1,25 @@
-"Inventor","Firm","tech_name","filing_year","mean_k"
-"United States","Switzerland","Medical Technology",2014,22.7506142506143
-"United States","Switzerland","Pharmaceuticals & Biotechnology",2014,8.5446735395189
-"United States","Switzerland","Consumer Goods & Civil Engineering",2014,12.1741573033708
-"United States","Switzerland","Electrical Machinery",2014,35.448132780083
-"Switzerland","Switzerland","Electrical Machinery",2014,13.0202808112324
-"Switzerland","Switzerland","Electrical & Audiovisual Technologies",2014,32.3357531760436
-"Switzerland","Switzerland","Information & Communication Technology",2014,73.171096345515
-"Switzerland","Switzerland","Semiconductors",2014,32.3989637305699
-"Switzerland","Switzerland","Instruments",2014,19.2317736670294
-"United States","Switzerland","Instruments",2014,22.2676553672316
-"Switzerland","Switzerland","Medical Technology",2014,19.3466494845361
-"Switzerland","Switzerland","Pharmaceuticals & Biotechnology",2014,8.40427480916031
-"Switzerland","Switzerland","Chemistry & Materials",2014,12.7733686067019
-"United States","Switzerland","Chemistry & Materials",2014,11.3455706304868
-"Switzerland","Switzerland","Engines, Turbines, Thermal & Environmental Technologies",2014,11.1232227488152
-"Switzerland","Switzerland","Machines & Mechanical Engineering",2014,12.2789203084833
-"United States","Switzerland","Machines & Mechanical Engineering",2014,13.7903225806452
-"United States","Switzerland","Engines, Turbines, Thermal & Environmental Technologies",2014,16.8339483394834
-"Switzerland","Switzerland","Consumer Goods & Civil Engineering",2014,12.1385767790262
-"Switzerland","Switzerland","Computer Technology",2014,79.9209726443769
-"United States","Switzerland","Computer Technology",2014,99.561736770692
-"United States","Switzerland","Information & Communication Technology",2014,95.524861878453
-"United States","Switzerland","Semiconductors",2014,32.7254901960784
-"United States","Switzerland","Electrical & Audiovisual Technologies",2014,42.9701492537313
+"Inventor","Firm","tech_name","filing_year","mean_k","num_k_agg","share"
+"United States","Switzerland","Computer Technology",2014,99.561736770692,1066,0.691369606003752
+"United States","Switzerland","Information & Communication Technology",2014,95.524861878453,1145,0.474235807860262
+"United States","Switzerland","Electrical & Audiovisual Technologies",2014,42.9701492537313,752,0.267287234042553
+"United States","Switzerland","Electrical Machinery",2014,35.448132780083,2164,0.111367837338262
+"United States","Switzerland","Semiconductors",2014,32.7254901960784,244,0.209016393442623
+"United States","Switzerland","Medical Technology",2014,22.7506142506143,2404,0.67720465890183
+"United States","Switzerland","Instruments",2014,22.2676553672316,2335,0.606423982869379
+"United States","Switzerland","Engines, Turbines, Thermal & Environmental Technologies",2014,16.8339483394834,693,0.391053391053391
+"United States","Switzerland","Machines & Mechanical Engineering",2014,13.7903225806452,1398,0.443490701001431
+"United States","Switzerland","Consumer Goods & Civil Engineering",2014,12.1741573033708,445,0.4
+"United States","Switzerland","Chemistry & Materials",2014,11.3455706304868,2387,0.524926686217009
+"United States","Switzerland","Pharmaceuticals & Biotechnology",2014,8.5446735395189,7349,0.554361137569737
+"Switzerland","Switzerland","Computer Technology",2014,79.9209726443769,1066,0.308630393996248
+"Switzerland","Switzerland","Information & Communication Technology",2014,73.171096345515,1145,0.525764192139738
+"Switzerland","Switzerland","Semiconductors",2014,32.3989637305699,244,0.790983606557377
+"Switzerland","Switzerland","Electrical & Audiovisual Technologies",2014,32.3357531760436,752,0.732712765957447
+"Switzerland","Switzerland","Medical Technology",2014,19.3466494845361,2404,0.32279534109817
+"Switzerland","Switzerland","Instruments",2014,19.2317736670294,2335,0.393576017130621
+"Switzerland","Switzerland","Electrical Machinery",2014,13.0202808112324,2164,0.888632162661738
+"Switzerland","Switzerland","Chemistry & Materials",2014,12.7733686067019,2387,0.475073313782991
+"Switzerland","Switzerland","Machines & Mechanical Engineering",2014,12.2789203084833,1398,0.556509298998569
+"Switzerland","Switzerland","Consumer Goods & Civil Engineering",2014,12.1385767790262,445,0.6
+"Switzerland","Switzerland","Engines, Turbines, Thermal & Environmental Technologies",2014,11.1232227488152,693,0.608946608946609
+"Switzerland","Switzerland","Pharmaceuticals & Biotechnology",2014,8.40427480916031,7349,0.445638862430263
